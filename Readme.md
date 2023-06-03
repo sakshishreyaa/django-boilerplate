@@ -1,4 +1,4 @@
-# MyProject
+# django-boilerplate
 
 This is a Django boilerplate project with Docker setup, CI/CD integration, logging, and tests.
 
