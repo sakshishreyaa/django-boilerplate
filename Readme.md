@@ -22,7 +22,7 @@ cd django-boilerplate
 (Alternatively, you can run the application without Docker by installing the dependencies and running the Django development server locally.)
 
 3. Development Workflow:
-- Make changes to the Django project files (e.g., views, models, templates) located in the `myproject` directory.
+- Make changes to the Django project files (e.g., views, models, templates) located in the `django-boilerplate` directory.
 - The development server will automatically reload on file changes.
 
 4. Creating and Configuring an App:
